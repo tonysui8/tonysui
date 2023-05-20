@@ -18,11 +18,14 @@ body{
     color: salmon;
 
   }
+ 
 .sub{
     text-decoration: underline;
+    font-size: 60px;
     color: aliceblue;
 }
 .info{
     text-emphasis: 30px;
+    font-size: 30px;
     color: azure;
 }
