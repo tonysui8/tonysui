@@ -1,12 +1,12 @@
 body{
     margin: 30px;
     background-color: lightskyblue;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url('../Downloads/Tony Sui Year 7.jpg');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url('./Tony Sui Year 7.jpg');
     background-size: 100% 100%;
 }
 .header {
     text-align: center;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('../Downloads/sui.jpeg');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('./sui.jpeg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     padding: 0px;
