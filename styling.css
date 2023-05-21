@@ -9,7 +9,6 @@ body{
     background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('./sui.jpeg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    padding: 0px;
     text-decoration: wavy;
     text-emphasis-color: blue;
     font-size: 80px;
